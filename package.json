@@ -1,0 +1,17 @@
+{
+  "name": "null-burc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "null.rb",
+  "license": "ISC",
+  "dependencies": {
+    "burc-yorum": "^0.0.2-dev",
+    "discord.js": "^14.14.1",
+    "node-cron": "^3.0.3"
+  }
+}
